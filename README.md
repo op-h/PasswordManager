@@ -1,6 +1,6 @@
 # Password Manager
 
-A secure, user-friendly Android password manager application designed by OPH Security. This app helps you safely store and manage your passwords with strong encryption and a clean, modern interface.
+A secure, user-friendly Android password manager application designed by OP Security. This app helps you safely store and manage your passwords with strong encryption and a clean, modern interface.
 
 ![App Icon](app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png)
 
