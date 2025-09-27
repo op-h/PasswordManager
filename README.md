@@ -80,7 +80,7 @@ This app:
 
 ## License
 
-Copyright © 2024 OPH Security. All rights reserved.
+Copyright © 2024 OP Security. All rights reserved.
 
 ## Credits
 
@@ -88,4 +88,4 @@ Designed and developed by OP Security.
 
 ## Support
 
-For support, bug reports, or feature requests, please create an issue in the repository or contact OPH Security support. 
+For support, bug reports, or feature requests, please create an issue in the repository or contact OP Security support. 
