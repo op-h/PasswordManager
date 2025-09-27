@@ -84,7 +84,7 @@ Copyright © 2024 OPH Security. All rights reserved.
 
 ## Credits
 
-Designed and developed by OPH Security.
+Designed and developed by OP Security.
 
 ## Support
 
